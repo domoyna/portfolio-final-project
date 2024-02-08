@@ -1,0 +1,13 @@
+:root {
+    --heading-font-family: "Poppins",
+        sans-serif;
+    --default-font-family: "Playfair Display",
+        serif;
+
+
+}
+
+
+.about-section {
+    text-align: center;
+}
