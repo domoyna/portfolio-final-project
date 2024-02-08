@@ -14,6 +14,7 @@
 
 h1 {
     font-family: var(--heading-font-family);
+    margin: 20px 0;
 }
 
 h2 {
