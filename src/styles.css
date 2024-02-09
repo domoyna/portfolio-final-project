@@ -22,7 +22,7 @@ p{
     font-family: monospace;
 }
 
-btn-branding {
+.btn-branding {
         background: var(--branding-color);
         border-radius: 4px;
         color: white;
