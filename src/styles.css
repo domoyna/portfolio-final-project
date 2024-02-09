@@ -13,10 +13,14 @@
 h1 {
     font-family: var(--heading-font-family);
     margin: 20px 50px;
+    font-size: 64px;
 }
 
 h2 {
     font-family: var(--default-font-family);
+}
+h3 {
+    font-family:var(--heading-font-family);    
 }
 p{
     font-family: monospace;
