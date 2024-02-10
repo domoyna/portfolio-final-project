@@ -35,3 +35,6 @@ p{
         line-height: 27px;
         padding: 15px 30px;
     }
+    img {
+        size: 200px;
+    }
