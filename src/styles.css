@@ -19,7 +19,7 @@
 h1 {
     font-family: var(--heading-font-family);
     font-size: 64px;
-    text-align: center;
+    text-align: center !important;
     line-height: 80px;
 }
 
