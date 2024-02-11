@@ -44,6 +44,12 @@ p{
     img {
         size: auto;
     }
+
+.contact {
+    size: 100px;
+    max-width: 100%;
+    height: auto;
+}
 @media  (max-width: 900px) {
     img {
         size: 100px;
