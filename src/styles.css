@@ -12,11 +12,15 @@
     text-align: center;
     margin-top: 80px;
 }
+.content-container {
+    text-align: center;
+}
 
 h1 {
     font-family: var(--heading-font-family);
     font-size: 64px;
     text-align: center;
+    line-height: 80px;
 }
 
 h2 {
