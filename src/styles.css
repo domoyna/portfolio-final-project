@@ -17,7 +17,7 @@ h1 {
     font-family: var(--heading-font-family);
     margin: 80px 50px auto;
     font-size: 64px;
-    text-align: center;
+    justify-content: center;
 }
 
 h2 {
