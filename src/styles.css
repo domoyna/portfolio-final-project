@@ -39,3 +39,11 @@ p{
     img {
         size: auto;
     }
+@media  (max-width: 900px) {
+    img {
+        size: 100px;
+    }
+    h1 {
+        font-size: 60px;
+    }
+}
