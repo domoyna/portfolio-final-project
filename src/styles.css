@@ -91,7 +91,7 @@ p {
 
 }
 .nav-link {
-    display: flex;
+    display: block;
     justify-content: right;
 }
 .navigation-links {
