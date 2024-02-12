@@ -194,7 +194,7 @@ footer {
 }
 
 footer .contact-box {
-    background: var(--branding-color);
+    background: var(--secondary-color);
     padding: 30px 120px;
     border-radius: 10px;
 }
@@ -216,7 +216,7 @@ footer .email-link:hover {
 footer .social-links a {
     margin: 0 20px;
     color: var(--branding-color);
-    background: var(--secondary-color);
+    background: #c094f2 ;
     padding: 10px 14px;
     border-radius: 50%;
     font-size: 18px;
@@ -224,7 +224,7 @@ footer .social-links a {
 }
 
 footer .social-links a:hover {
-    color: white;
+    color:#c094f2;
     background: var(--branding-color);
 }
 @media screen and (max-width: 576px) {
