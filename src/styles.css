@@ -205,6 +205,17 @@ footer .email-link {
     color: black;
     font-size: 24px;
 }
+footer .btn-branding {
+    display: flex;
+        border-radius: 4px;
+        padding: 20px 15px;
+        text-decoration: none;
+        text-transform: capitalize;
+        background: var(--branding-color);
+        box-shadow: var(--box-shadow);
+        color: white;
+
+}
 
 footer .email-link:hover {
     color: var(--branding-color);
