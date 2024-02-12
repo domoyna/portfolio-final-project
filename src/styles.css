@@ -221,7 +221,7 @@ footer .email-link:hover {
     color: var(--branding-color);
 }
 
-.social-links i {
+.social-links a i {
     margin: 0 20px;
     color: black;
     background: #c094f2 ;
@@ -231,9 +231,25 @@ footer .email-link:hover {
     transition: all 100ms ease-in-out;
 }
 
-.social-links i:hover {
+.social-links a  i:hover {
     color:#c094f2;
     background: black;
+}
+
+.social-links {
+    background-color: beige;
+    padding: 20px;
+    
+}
+
+.social-links a {
+    margin: 0 10px;
+   
+}
+
+.social-links a i {
+    font-size: 24px;
+    /* Adjust the icon size */
 }
 @media screen and (max-width: 576px) {
     img {
