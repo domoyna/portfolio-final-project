@@ -228,6 +228,8 @@ footer .email-link:hover {
     padding: 10px 14px;
     border-radius: 50%;
     font-size: 50px;
+    font-weight: 400;
+    
     transition: all 100ms ease-in-out;
 }
 
