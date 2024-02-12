@@ -90,9 +90,9 @@ p {
     text-align: left;
 
 }
-.navbar {
+.nav-link {
     display: flex;
-    justify-content: space-between;
+    justify-content: right;
 }
 .navigation-links {
     display: flex;
