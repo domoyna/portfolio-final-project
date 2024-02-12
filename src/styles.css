@@ -8,7 +8,9 @@
         --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
-
+.logo {
+    max-width: 90px;
+}
 .about-section {
     text-align: center;
     margin-top: 80px;
@@ -117,13 +119,14 @@ nav li {
     line-height: 42px;
     margin-left: 15px;
 }
-.nav-item a {
+
+nav a {
     text-decoration: none;
     color: #272142;
     transition: all 100ms ease-in-out;
 }
 
-.nav-item a:hover,
+nav a:hover,
 nav li.active a {
     color: var(--branding-color);
 }
