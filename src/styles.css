@@ -64,18 +64,15 @@ p {
         font-size: 18px;
         line-height: 27px;
         padding: 15px 30px;
-    }
+}
    
 
 .contact {
     font-size: 400px;
-    max-width: 100%;
-    height: auto;
+   
 }
 .linkedin-icon {
     font-size: 50px;
-    max-width: 100%;
-    height: auto;
 }
  img {
     width: 100%;
