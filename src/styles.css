@@ -229,7 +229,6 @@ footer .social-links a i {
     border-radius: 50%;
     font-size: 18px;
     font-weight: 400;
-    
     transition: all 100ms ease-in-out;
 }
 
@@ -247,9 +246,7 @@ footer .social-links a {
 footer .fa-brands{
     font-weight: 400;
 }
-footer .fab {
-    font-weight: 400;
-}
+
 @media screen and (max-width: 576px) {
     img {
         display: none;
