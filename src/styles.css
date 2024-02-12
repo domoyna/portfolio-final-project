@@ -242,7 +242,12 @@ footer .email-link:hover {
     padding: 10px;
     background-color:#c094f2;   
 }
-
+.fa-brands{
+    font-weight: 400;
+}
+.fab {
+    font-weight: 400;
+}
 @media screen and (max-width: 576px) {
     img {
         display: none;
