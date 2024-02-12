@@ -238,13 +238,11 @@ footer .email-link:hover {
 
 .social-links a {
     margin: 0 10px;
-   
+    border-radius: 50%;
+    padding: 10px;
+    background-color: rgb(197, 196, 196);   
 }
 
-.social-links a i {
-    font-size: 24px;
-    /* Adjust the icon size */
-}
 @media screen and (max-width: 576px) {
     img {
         display: none;
