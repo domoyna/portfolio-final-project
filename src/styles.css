@@ -215,7 +215,7 @@ footer .email-link:hover {
 
 footer .social-links a {
     margin: 0 20px;
-    color: var(--branding-color);
+    color: black;
     background: #c094f2 ;
     padding: 10px 14px;
     border-radius: 50%;
@@ -225,7 +225,7 @@ footer .social-links a {
 
 footer .social-links a:hover {
     color:#c094f2;
-    background: var(--branding-color);
+    background: black;
 }
 @media screen and (max-width: 576px) {
     img {
