@@ -32,7 +32,7 @@ h6 {
 }
 h1 {
     font-family: var(--heading-font-family);
-    font-size: 64px;
+    font-size: 96px;
     text-align: center !important;
     line-height: 80px;
     linne-height: 1.5;
@@ -40,7 +40,7 @@ h1 {
 
 h2 {
     font-family: var(--default-font-family);
-    font-size: 40px;
+    font-size: 64px;
      text-align: center;
 }
 h3 {
@@ -49,7 +49,14 @@ h3 {
     text-align: center;
     margin: 0;
 }
-
+h4 {
+    font-size: 48px;
+}
+p {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+}
 .btn-branding {
         background: var(--branding-color);
         border-radius: 4px;
@@ -65,7 +72,11 @@ h3 {
     max-width: 100%;
     height: auto;
 }
-
+.linkedin-icon {
+    size: 100px;
+    max-width: 100%;
+    height: auto;
+}
  img {
     width: 100%;
     height: auto;
@@ -183,7 +194,7 @@ footer {
 }
 
 footer .contact-box {
-    background: var(--secondary-color);
+    background: var(--branding-color);
     padding: 30px 120px;
     border-radius: 10px;
 }
