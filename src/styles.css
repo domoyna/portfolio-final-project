@@ -97,7 +97,7 @@ p {
 .navigation-links {
     display: flex;
     margin-top: 40px;
-    justify-content: right;
+    justify-content: center;
 }
 
 .navigation-links a {
