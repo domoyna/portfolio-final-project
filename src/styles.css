@@ -90,8 +90,8 @@ p {
     text-align: left;
 
 }
-.nav-link {
-    display: block;
+.nav-item {
+    display: flex;
     justify-content: right;
 }
 .navigation-links {
